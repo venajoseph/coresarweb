@@ -1,5 +1,5 @@
 ---
-title: "Coordination des réseaux de santé ruruax"
+title: "coresar"
 ---
 
 Bienvenue sur le site du project CoReSaR.
