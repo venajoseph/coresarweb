@@ -1,15 +1,11 @@
-name: "coresar"
- navbar:
-  title: "Coordination des Réseaux de Santé Ruraux"
+name: "my-website"
+
+navbar:
+  title: "My Website"
   left:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-output: 
-  html_document:
-    theme: cosmo
-    highlight: textmate
-
       
     
